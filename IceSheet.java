@@ -17,7 +17,9 @@ This way the rings can be acurrately measured ( 12ft, 8ft, 4ft )
 
 public class IceSheet {
 	
-
+	int curl;
+	Ice[][] sheet;
+	int venue;
 	
 	
 }

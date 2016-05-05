@@ -21,6 +21,7 @@ public class Player {
 
 		this.weightControl = 0;
 		this.accuracy = 0;
+		this.fatigue = 0;
 		this.name = chosenName;
 
 	}
@@ -30,6 +31,7 @@ public class Player {
 		this.weightControl = startingWeightControl;
 		this.accuracy = startingAccuracy;
 		this.strength = startingStrength;
+		this.fatigue = 0;
 		this.name = chosenName;
 
 	}
